@@ -1,4 +1,15 @@
-DemandEst - AI Powered Food Demand Forecaster
+# IBM-Project-34216-1660232990
+
+## DemandEst - AI Powered Food Demand Forecaster
+
+
+![food platter](https://images.pexels.com/photos/8753672/pexels-photo-8753672.jpeg?auto=compress&cs=tinysrgb&w=1000)
+
+
+
+
+***
+### TEAM MEMBERS:
 Category: Machine Learning
 
 Skills Required:
