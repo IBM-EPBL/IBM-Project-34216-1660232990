@@ -23,6 +23,7 @@ A food delivery service has to deal with a lot of perishable raw materials which
 The main aim of this project is to create an appropriate machine learning model to forecast the number of orders to gather raw materials for next ten weeks. To achieve this, we should know the information about of fulfilment center like area, city etc., and meal information like category of food sub category of food price of the food or discount in particular week. By using this data, we can use any classification algorithm to forecast the quantity for 10 weeks. A web application is built which is integrated with the model built.
 ***
 # TECHNICAL ARCHITECTURE:
+!.[TECHNICAL ARCHITECTURE](https://lh3.googleusercontent.com/czgiu9se58w9X9wLf8W-doTfvDO3YF805iNfKB6vbqmdBPaiMbf61pf5_SCvKVKg30b1CluO8KO4LJJCUO-gQcx4jDSQpHymPTIgrlXm2BSjmRkihTRWCdXxJDrqDEqdbaJSFA)
 
 
 
